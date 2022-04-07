@@ -6,8 +6,9 @@ function loadImage(src, callback) {
     img.src = src;
 }
 function imagePath(frameNumber, animation) {
-    return animation+ "/" + frameNumber + ".png";
+    return ""+animation+ "/" + frameNumber + ".png";
 }
+
  
 let frames = {
     idle: [1, 2, 3, 4, 5, 6, 7, 8],
