@@ -6,7 +6,7 @@ function loadImage(src, callback) {
     img.src = src;
 }
 function imagePath(frameNumber, animation) {
-    return ""+animation+ "/" + frameNumber + ".png";
+    return animation+ "/" + frameNumber + ".png";
 }
 
  
