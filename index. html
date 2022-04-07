@@ -1,5 +1,5 @@
-<head>
-<h6>WELCOME TO THE GAME</h6></head>
+
+<h6>WELCOME TO THE GAME</h6>
 
         <canvas id="my-canvas"  width="500" height="500"></canvas>
         <button id = "kick">Kick (Left Arrow Key)</button>
